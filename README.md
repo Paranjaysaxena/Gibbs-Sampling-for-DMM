@@ -11,5 +11,5 @@ There are four datasets used in the project: [T.json](Datasets/T.json), [S.json]
 
 ## References
 1. J. Yin and J. Wang, "A dirichlet multinomial mixture model-based approach for short text clustering," *Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining*, pp 233–242, ACM, 2014.
-2. J. Yin. (2015). "GSDMM," [Online]. Available: https://github.com/jackyin12/GSDMM
+2. J. Yin. (2015). "GSDMM," [Online]. Available: https://github.com/jackyin12/GSDMM/tree/master/data
 3. R. Walker. (2017). "GSDMM: Short text clustering," [Online]. Available: https://github.com/rwalk/gsdmm
